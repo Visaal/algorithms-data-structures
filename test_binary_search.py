@@ -72,3 +72,5 @@ class TestBinarySearch(unittest.TestCase):
                 self.check_value(input_list, value)
 
 
+if __name__ == '__main__':
+    unittest.main()
